@@ -14,7 +14,7 @@ function BlogCard() {
                 <div className="desc">
                     Lorem ipsum dolor sit
                     amet consectetur 
-                    adipisicing elit. Molli</div>
+                    adipisicing elit</div>
                 <Link  to ="/blogs/:id" className="button mt-2">
                     Read More
                 </Link>
