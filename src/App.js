@@ -4,7 +4,6 @@ import{ BrowserRouter, Routes, Route}  from 'react-router-dom';
 import Layout from './components/Layout';
 import Home from './pages/Home';
 import Contact from './pages/Contact';
-import About from './pages/About';
 import Blog from './pages/Blog';
 import CompareProduct from './pages/CompareProduct';
 import Wishlist from './pages/Wishlist';
@@ -26,7 +25,6 @@ function App() {
     <Routes>
      <Route path = '/' element={<Layout/>}>
       <Route index element= {<Home/>}/>
-      <Route path='about' element={<About/>}/>
       <Route path='contact' element={<Contact/>}/>
       <Route path='blogs' element={<Blog/>}/>
       <Route path='blogs/:id' element={<FirstBlog/>}/>
