@@ -22,9 +22,6 @@ const Footer = () => {
         </div>
         <div className="footer-section">
           <h4 className="footer-title">Information</h4>
-          <Link to="/privacy-policy" className="footer-link text-white">
-            Privacy Policy
-          </Link>
           <Link to="/refund-policy" className="footer-link text-white">
             Refund
           </Link>
