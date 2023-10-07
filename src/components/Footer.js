@@ -64,7 +64,7 @@ const Footer = () => {
         <div className="social-icons">
           <a
             className="social-icon text-white"
-            href="https://github.com/karn6600"
+            href="https://github.com/i-k6"
             target="_blank"
             rel="noreferrer"
           >
