@@ -80,7 +80,7 @@ const Footer = () => {
           </a>
           <a
             className="social-icon text-white"
-            href="https://twitter.com/karn_kumr_"
+            href="https://twitter.com/iKK6600"
             target="_blank"
             rel="noreferrer"
           >
